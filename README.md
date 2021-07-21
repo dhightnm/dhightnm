@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-<!--
-**dhightnm/dhightnm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Devin Hight</h1>
 <h3 align="center">A passionate full-stack developer In Las Vegas, NV.</h3>
 
